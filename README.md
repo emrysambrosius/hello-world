@@ -1,2 +1,4 @@
 # hello-world
-this is the first try
+this is from the tutorial....
+
+GitHub rocks!
